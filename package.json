@@ -19,7 +19,7 @@
   "homepage": "https://github.com/zhanchujin/20191219#readme",
   "dependencies": {
     "bootstrap": "^3.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "less": "^3.10.3"
   }
 }
